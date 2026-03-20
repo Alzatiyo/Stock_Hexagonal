@@ -7,15 +7,15 @@
 
 ##  Contexto del Negocio
 
-**Stock** es un sistema para gestión de inventario de bodega. Permite registrar productos con su stock actual, definir umbrales mínimos de reabastecimiento y gestionar salidas de inventario con validación de estado.
+Es un sistema para gestión de inventario de bodega. Permite registrar productos con su stock actual, definir umbrales mínimos de reabastecimiento y gestionar salidas de inventario con validación de estado.
 
 ---
 
 ##  Regla de Negocio Principal
 
-> Al registrar una **salida de inventario**, si el stock resultante queda **igual o por debajo del umbral mínimo** (`Stockminimum`) definido por el producto, el sistema cambia automáticamente el estado del producto a **`ReabastecimientoPendiente`**.
+> Al registrar una **salida de inventario**, si el stock resultante queda **igual o por debajo del mínimo** (`Stockminimum`) definido por el producto, el sistema cambia el estado del producto a **`ReabastecimientoPendiente`**.
 
-Esta validación ocurre **exclusivamente en el núcleo del dominio** (`Product.RegisterExit` + `ProductService.RegisterExit`), garantizando que ninguna capa externa pueda saltársela.
+Esta validación ocurre **exclusivamente en el dominio** (`ProductService.RegisterExit`), garantizando que ninguna capa externa pueda saltársela.
 
 ```
 stock_resultante = stock_actual - cantidad_salida
@@ -56,7 +56,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 | CAPA | COMPONENTE | ARCHIVO EN EL PROYECTO | DESCRIPCIÓN |
 |------|------------|------------------------|-------------|
-| DOMINIO | Entidad | `Domain/Models/Product.cs` | Modelo principal con lógica `RegisterExit()` |
+|DOMINIO|Entidad|`Domain/Models/Product.cs`|Modelo principal con lógica `RegisterExit()`|
 | DOMINIO | Enum / VO | `Domain/Enums/ProductStatus.cs` | Estados: `Activo`, `ReabastecimientoPendiente` |
 | DOMINIO | Builder | `Domain/Builders/ProductBuilder.cs` | Patrón Builder para construir `Product` |
 | DOMINIO | Servicio de Dominio | `Domain/Services/ProductService.cs` | `EvaluateStockStatus()`, `RegisterExit()` |
@@ -68,7 +68,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 | INFRAESTRUCTURA | Adaptador Salida | `Infrastructure/Adapters/Persistence/ProductAdapter.cs` | Acceso a BD (EF Core) |
 | INFRAESTRUCTURA | Mapper | `Infrastructure/Mappers/ProductMapper.cs` | Conversión Dominio ↔ Entidad BD |
 | INFRAESTRUCTURA | DTOs | `Infrastructure/Dtos/` | `CreateProductRequest`, `UpdateProductRequest` |
-| INFRAESTRUCTURA | Config BD | `Infrastructure/Config/AppDbContext.cs` | Contexto EF Core (SQLite) |
+| INFRAESTRUCTURA | Config BD | `Infrastructure/Config/AppDbContext.cs` | Contexto EF Core |
 
 ---
 

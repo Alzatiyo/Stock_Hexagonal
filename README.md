@@ -1,11 +1,11 @@
-# 📦 StockPro — Sistema de Gestión de Inventario
+# Stock — Arquitectura Hexagonal
 
-> **Taller de Arquitectura 2 — Caso 1: Arquitectura Hexagonal (Ports & Adapters)**  
-> Tecnología: **.NET 8** | Base de datos: **SQLite In-Memory** | ORM: **Entity Framework Core**
+> **Arquitectura Hexagonal (Ports & Adapters)**  
+> Tecnología: **.NET 8** | Base de datos: **Sql Server** | ORM: **Entity Framework Core**
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Contexto del Negocio](#-contexto-del-negocio)
 - [Regla de Negocio Principal](#-regla-de-negocio-principal)
@@ -20,13 +20,13 @@
 
 ---
 
-## 🏭 Contexto del Negocio
+## Contexto del Negocio
 
-**StockPro** es un sistema para gestión de inventario de bodega. Permite registrar productos con su stock actual, definir umbrales mínimos de reabastecimiento y gestionar salidas de inventario con validación automática de estado.
+**Stock** es un sistema para gestión de inventario de bodega. Permite registrar productos con su stock actual, definir umbrales mínimos de reabastecimiento y gestionar salidas de inventario con validación de estado.
 
 ---
 
-## ⚡ Regla de Negocio Principal
+## Regla de Negocio Principal
 
 > Al registrar una **salida de inventario**, si el stock resultante queda **igual o por debajo del umbral mínimo** (`Stockminimum`) definido por el producto, el sistema cambia automáticamente el estado del producto a **`ReabastecimientoPendiente`**.
 
@@ -41,7 +41,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## ✅ Requisitos Funcionales
+## Requisitos Funcionales
 
 | ID | Descripción | Endpoint |
 |----|-------------|----------|
@@ -55,7 +55,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## 🏆 Atributos de Calidad
+## Atributos de Calidad
 
 | Atributo | Prioridad | Descripción |
 |----------|-----------|-------------|
@@ -67,7 +67,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## 🗺️ Diseño Hexagonal — Mapping
+## Diseño Hexagonal — Mapping
 
 | CAPA | COMPONENTE | ARCHIVO EN EL PROYECTO | DESCRIPCIÓN |
 |------|------------|------------------------|-------------|
@@ -87,7 +87,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## 📁 Estructura de Carpetas
+## Estructura de Carpetas
 
 ```
 Hexagonal.sln
@@ -138,9 +138,9 @@ Hexagonal.sln
 
 ---
 
-## 🧩 Patrones de Diseño Aplicados
+## Patrones de Diseño Aplicados
 
-### 1. 🏗️ Builder (Creacional)
+### 1. Builder (Creacional)
 **Clases:** `ProductBuilder`, `ProductEntityBuilder`
 
 Construye objetos `Product` complejos paso a paso, evitando constructores con múltiples parámetros. Permite crear instancias expresivas y legibles. Se usa dentro del propio dominio al ejecutar `RegisterExit()`:
@@ -161,29 +161,29 @@ public Product RegisterExit(int quantity)
 }
 ```
 
-### 2. 🗄️ Repository (Estructural)
+### 2. Repository (Estructural)
 **Clases:** `IProductRepositoryPort`, `ProductAdapter`
 
 Abstrae el acceso a datos detrás de una interfaz del dominio. El dominio no conoce EF Core ni SQLite; solo conoce el contrato del puerto `IProductRepositoryPort`.
 
-### 3. 🔌 Port & Adapter — Hexagonal (Arquitectural)
+### 3. Port & Adapter — Hexagonal (Arquitectural)
 **Clases:** `IProductUseCasePort`, `IProductRepositoryPort`
 
 Separa el núcleo de negocio de los detalles de entrada/salida. Los puertos definen los contratos; los adaptadores los implementan. El dominio nunca depende de la infraestructura.
 
-### 4. 🗺️ Mapper (Estructural)
+### 4. Mapper (Estructural)
 **Clases:** `ProductMapper`, `IProductMapper`
 
 Traduce entre el modelo de dominio (`Product`) y la entidad de persistencia (`ProductEntity`), manteniendo la independencia de capas y evitando la "contaminación" del dominio con anotaciones de BD.
 
-### 5. ⚙️ Domain Service (De Dominio)
+### 5. Domain Service (De Dominio)
 **Clase:** `ProductService`
 
 Encapsula lógica de negocio que no pertenece a una sola entidad: validación de cantidad, evaluación de stock y cambio automático de estado.
 
 ---
 
-## 🌐 API — Endpoints y cURL
+## API — Endpoints y cURL
 
 > **Base URL:** `http://localhost:5000`  
 > **Swagger UI:** `http://localhost:5000/swagger`
@@ -276,7 +276,7 @@ curl -X PATCH http://localhost:5000/api/product/550e8400-e29b-41d4-a716-44665544
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 ### Prerrequisitos
 - [.NET SDK 8.0+](https://dotnet.microsoft.com/download)
@@ -371,7 +371,7 @@ IProductRepositoryPort.UpdateAsync() → ProductAdapter → AppDbContext
 
 ---
 
-## 🛡️ Modelo de Dominio
+## Modelo de Dominio
 
 ```
 Product

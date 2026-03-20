@@ -5,21 +5,6 @@
 
 ---
 
-## Tabla de Contenidos
-
- [Contexto del Negocio](#-contexto-del-negocio)
- [Regla de Negocio Principal](#-regla-de-negocio-principal)
- [Requisitos Funcionales](#-requisitos-funcionales)
- [Atributos de Calidad](#-atributos-de-calidad)
- [Diseño Hexagonal — Mapping](#-diseño-hexagonal--mapping)
- [Estructura de Carpetas](#-estructura-de-carpetas)
- [Patrones de Diseño Aplicados](#-patrones-de-diseño-aplicados)
- [API — Endpoints y cURL](#-api--endpoints-y-curl)
- [Instrucciones de Ejecución](#-instrucciones-de-ejecución)
- [Guía de Exposición](#-guía-de-exposición)
-
----
-
 ##  Contexto del Negocio
 
 **Stock** es un sistema para gestión de inventario de bodega. Permite registrar productos con su stock actual, definir umbrales mínimos de reabastecimiento y gestionar salidas de inventario con validación de estado.

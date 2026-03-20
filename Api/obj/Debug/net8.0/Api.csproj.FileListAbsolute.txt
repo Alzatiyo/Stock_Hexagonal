@@ -1,0 +1,230 @@
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Aplication.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Domain.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Aplication.pdb
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\bin\Debug\net8.0\Domain.pdb
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\ProjectHexagonal\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.dll
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.pdb
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\appsettings.json
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Api.exe
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Api.deps.json
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Api.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Api.pdb
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Aplication.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Domain.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Infrastructure.dll
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Aplication.pdb
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Infrastructure.pdb
+C:\Medellin\Stock_Hexagonal\Api\bin\Debug\net8.0\Domain.pdb
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Medellin\Stock_Hexagonal\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Api.staticwebassets.endpoints.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Api.exe
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Api.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Aplication.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Domain.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Aplication.pdb
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\bin\Debug\net8.0\Domain.pdb
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\samunera\OneDrive - Sistemas de Información Empresarial S.A\Escritorio\Stock_Hexagonal-main\Stock_Hexagonal-main\Api\obj\Debug\net8.0\ref\Api.dll

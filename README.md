@@ -236,7 +236,7 @@ curl -X DELETE http://localhost:5000/api/product/550e8400-e29b-41d4-a716-4466554
 
 ---
 
-### `PATCH /api/product/{id}/exit/{quantity}` — Registrar salida ⚠️ Regla de Negocio
+### `PATCH /api/product/{id}/exit/{quantity}` — Registrar salida Regla de Negocio
 
 Este es el endpoint que implementa la **regla de negocio central**:
 
@@ -266,7 +266,7 @@ curl -X PATCH http://localhost:5000/api/product/550e8400-e29b-41d4-a716-44665544
 ### Prerrequisitos
 - [.NET SDK 8.0+](https://dotnet.microsoft.com/download)
 - Git
-- No requiere instalar base de datos (SQLite in-memory)
+- Sql Server
 
 ### Pasos
 
@@ -352,7 +352,7 @@ IProductRepositoryPort.UpdateAsync() → ProductAdapter → AppDbContext
 [HTTP Response 200 OK]
 ```
 
-> **El Dominio nunca sabe que existe HTTP, EF Core, SQLite ni JSON. Los puertos son la membrana protectora del hexágono.**
+> **El Dominio nunca sabe que existe HTTP, EF Core, SQl Server ni JSON. Los puertos son la membrana protectora del hexágono.**
 
 ---
 
@@ -374,4 +374,4 @@ Product
 
 ---
 
-*Desarrollado como parte del Taller de Arquitectura 2 — Arquitectura Hexagonal (Ports & Adapters)*
+*Desarrollado por Santiago Alzate — Arquitectura Hexagonal (Ports & Adapters)*

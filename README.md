@@ -20,7 +20,7 @@
 
 ---
 
-## Contexto del Negocio
+##  Contexto del Negocio
 
 **Stock** es un sistema para gestión de inventario de bodega. Permite registrar productos con su stock actual, definir umbrales mínimos de reabastecimiento y gestionar salidas de inventario con validación de estado.
 

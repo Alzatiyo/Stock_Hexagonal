@@ -26,7 +26,7 @@
 
 ---
 
-## Regla de Negocio Principal
+##  Regla de Negocio Principal
 
 > Al registrar una **salida de inventario**, si el stock resultante queda **igual o por debajo del umbral mínimo** (`Stockminimum`) definido por el producto, el sistema cambia automáticamente el estado del producto a **`ReabastecimientoPendiente`**.
 
@@ -41,7 +41,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## Requisitos Funcionales
+##  Requisitos Funcionales
 
 | ID | Descripción | Endpoint |
 |----|-------------|----------|
@@ -55,7 +55,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## Atributos de Calidad
+##  Atributos de Calidad
 
 | Atributo | Prioridad | Descripción |
 |----------|-----------|-------------|
@@ -67,7 +67,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## Diseño Hexagonal — Mapping
+##  Diseño Hexagonal — Mapping
 
 | CAPA | COMPONENTE | ARCHIVO EN EL PROYECTO | DESCRIPCIÓN |
 |------|------------|------------------------|-------------|
@@ -87,7 +87,7 @@ Si stock_resultante >  stockminimum  →  Status = Activo
 
 ---
 
-## Estructura de Carpetas
+##  Estructura de Carpetas
 
 ```
 Hexagonal.sln
@@ -138,7 +138,7 @@ Hexagonal.sln
 
 ---
 
-## Patrones de Diseño Aplicados
+##  Patrones de Diseño Aplicados
 
 ### 1. Builder (Creacional)
 **Clases:** `ProductBuilder`, `ProductEntityBuilder`
@@ -276,7 +276,7 @@ curl -X PATCH http://localhost:5000/api/product/550e8400-e29b-41d4-a716-44665544
 
 ---
 
-## Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 
 ### Prerrequisitos
 - [.NET SDK 8.0+](https://dotnet.microsoft.com/download)
@@ -316,7 +316,7 @@ curl -X PATCH http://localhost:5000/api/product/{ID_COPIADO}/exit/15
 
 ---
 
-## 🎤 Guía de Exposición
+##  Guía de Exposición
 
 ### ¿Cómo se aplicó la Inversión de Dependencia?
 
@@ -371,7 +371,7 @@ IProductRepositoryPort.UpdateAsync() → ProductAdapter → AppDbContext
 
 ---
 
-## Modelo de Dominio
+##  Modelo de Dominio
 
 ```
 Product
